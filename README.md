@@ -1,10 +1,11 @@
-# UT-OS-Course-Projects
-Three comprehensive programming assignments from the Operating Systems course (Spring 2025) at University of Tehran — covering socket programming with TCP/UDP broadcast, multi-process pipelines with load balancing via pipes, and multi-threaded neural network inference on MNIST with pthread synchronization.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=OS%20Course%20Projects&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
 # Operating Systems Course Assignments
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/platform-Linux-Ubuntu-brightgreen)]()
+[![Platform](https://img.shields.io/badge/platform-Linux--Ubuntu-brightgreen)](https://ubuntu.com/)
 [![Language](https://img.shields.io/badge/language-C%2B%2B-orange)]()
 [![VM](https://img.shields.io/badge/VM-VMware%20Workstation-blue)]()
 
