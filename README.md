@@ -274,6 +274,16 @@ make
 ## License
 This project is licensed under the MIT License — see the LICENSE file for details.
 
+## Author
+
+**Behzad Jannati**
+M.Sc. Student – Computer Architecture
+University of Tehran
+
+GitHub: [https://github.com/bhzadjnty7](https://github.com/bhzadjnty7)
+
+Linkedin: [www.linkedin.com/in/behzadjannati](www.linkedin.com/in/behzadjannati)
+
 ## Acknowledgements
 * **Dr. Mehdi Kargahi —** Course instructor, University of Tehran
 
